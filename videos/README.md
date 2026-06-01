@@ -1,6 +1,6 @@
 # Videos del curso — STEM SR
 
-Estos son los videos de la **Fase Aprende** del Reto STEM SR de
+Estos son los videos de la **Fase Crea** del Reto STEM SR de
 BALAM. Cubren la tarjeta Balam Stem Sr, el ESP32, los drivers de
 motor y el sistema de alimentación del robot. Verlos en orden te
 ayuda a entender la electrónica antes de empezar a programar.
